@@ -1,0 +1,47 @@
+body {
+     margin: 0;
+     font-family: 'Bebas Neue', cursive;
+}
+.header {
+     text-align: center;
+}
+
+.white-text {
+     fill: white;
+}
+
+.legend-container {
+     width: 75%;
+     margin: 0 auto;
+     padding-top: 50px;
+     display: flex;
+     justify-content: space-evenly;
+}
+
+.legend-key {
+     display: flex;
+     align-items: center;
+}
+
+.legend-rect {
+     width: 25px;
+     height: 25px;
+     border-radius: 5px;
+     margin-right: 10px;
+}
+
+.blue1 {
+     background-color: #00B0CA;
+}
+
+.blue2 {
+     background-color: #008498;
+}
+
+.blue3 {
+     background-color: #005865;
+}
+
+.blue4 {
+     background-color: #002C33;
+}
