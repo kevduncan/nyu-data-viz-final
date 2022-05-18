@@ -1,4 +1,4 @@
-const d3 = require('d3/dist/d3');
+// const d3 = require('d3/dist/d3');
 
 (async function drawPieChart() {
   const rawData = await d3.csv('./data/scholarships.csv');
